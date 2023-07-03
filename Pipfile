@@ -11,4 +11,4 @@ pytest = "*"
 faker = "*"
 
 [requires]
-python_version = "3.8.13"
+python_version = "3.11.2"
